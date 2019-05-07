@@ -1,4 +1,4 @@
-BeginPackage[ "EmConst`"];
+BeginPackage[ "lizelive`lwl`EmConst`"];
 columb = Quantity["Coulombs"];
 newton = Quantity[ "Newtons"];
 \[Mu]C = columb/10^6;
