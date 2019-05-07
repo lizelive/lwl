@@ -1,4 +1,4 @@
-BeginPackage[ "lizelive`lwl`EmConst`"];
+BeginPackage[ "wpm`lizelive`lwl`EmConst`"];
 columb = Quantity["Coulombs"];
 newton = Quantity[ "Newtons"];
 \[Mu]C = columb/10^6;
