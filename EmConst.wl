@@ -1,4 +1,4 @@
-eginPackage[ "EmConst`"];
+BeginPackage[ "EmConst`"];
 columb = Quantity["Coulombs"];
 newton = Quantity[ "Newtons"];
 \[Mu]C = columb/10^6;
